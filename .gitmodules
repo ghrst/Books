@@ -1,0 +1,6 @@
+[submodule "GrokkingML-1sted"]
+	path = GrokkingML-1sted
+	url = https://github.com/luisguiserrano/manning.git
+[submodule "MakeYourOwnNN-1sted"]
+	path = MakeYourOwnNN-1sted
+	url = https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork.git
